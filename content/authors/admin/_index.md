@@ -22,13 +22,13 @@ interests:
 - Real Estate Investing
 - Equity Research
 - Financial Economics
+
 # Education to show in About widget
 education:
-
- 
+  courses:
   - course: BBA, Finance & Accounting
-    institution: Simon Fraser University 
-    year: 2022
+    institution: Simon Fraser University
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
