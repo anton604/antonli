@@ -29,7 +29,7 @@ experience:
     location: Richmond, BC 
     date_start: '2021-07'
     date_end: ''
-    description: 
+    description: Taught electronic engineering and researched semiconductor physics.
     
   - title: Marketing Intern
     company: Michelle Yu PREC
@@ -38,7 +38,7 @@ experience:
     location: Vancouver, BC
     date_start: '2020-07'
     date_end: '2020-12'
-    description: 
+    description: Taught electronic engineering and researched semiconductor physics.
     
     
 
