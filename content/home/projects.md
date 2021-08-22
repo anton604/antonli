@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: Real Estate 
     tag: Real Estate
-  - name: Other
-    tag: Demo
+  - name: Models
+    tag: Stocks
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
