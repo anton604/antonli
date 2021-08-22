@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Senior Universal Banker
     company: Scotiabank
-    company_url: https://www.scotiabank.com/ca/en/personal.html
+    company_url: 'https://www.scotiabank.com/ca/en/personal.html'
     company_logo: org-gc
     location: Richmond, BC 
     date_start: '2021-07'
@@ -33,7 +33,7 @@ experience:
     
   - title: Marketing Intern
     company: Michelle Yu PREC
-    company_url: https://michelleyu.com/
+    company_url: 'https://michelleyu.com/'
     company_logo: org-x
     location: Vancouver, BC
     date_start: '2020-07'
