@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Anton Li | Undergraduate Researcher # Website name
+title: Anton Li # Website name
 baseurl: 'https://antonli.netlify.app//' # Website URL
 copyright: '&copy; Anton Li, {year} | View the source code [here](https://github.com/anton604/antonli). <br> Built with ❤️ and ☕️ (and also [Netlify](https://www.netlify.com/), [Hugo](https://themes.gohugo.io/academic/), and the [R Blogdown](https://cran.r-project.org/web/packages/blogdown/index.html) package).' # Footer text, e.g. '© {year} Me'
 
