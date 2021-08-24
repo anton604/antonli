@@ -1,12 +1,12 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Supply & Demand Analysis
+summary: Graphics Processing Unit (GPU) Demand Impacting Price in 2020
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://drive.google.com/file/d/1UaNV1YgK8FK2QWBTJ2zHmjh70umGddFl/view?usp=sharing"
 
 image:
   caption: Photo by rawpixel on Unsplash
